@@ -22,3 +22,5 @@ for irasas in biudzetas:
     if type(irasas) is IslaiduIrasas:
         print("Išlaidos", irasas.suma)
 
+
+#         pakeitimas
